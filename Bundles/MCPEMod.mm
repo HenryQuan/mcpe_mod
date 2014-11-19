@@ -37,7 +37,7 @@ system("killall -9 SpringBoard");
 
 -(void) showSourceCode
 {
-[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://apt.82flex.com"]];
+[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/HenryQuan/MCPEMod"]];
 }
 
 @end
