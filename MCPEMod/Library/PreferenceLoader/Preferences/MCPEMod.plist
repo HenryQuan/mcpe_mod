@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = MCPEMod;
+	cell = PSLinkCell;
+	detail = MCPEModListController;
+	icon = MCPEMod.png;
+	isController = 1;
+	label = MCPEMod;
+    };
+}

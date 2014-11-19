@@ -1,0 +1,9 @@
+Package: henryquan
+Name: MCPEMod
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: MCPEMod for Minecraft PE 0.10.0
+Author: Henry
+Section: Tweaks
+Version: 0.10.0-1
+Installed-Size: 124
