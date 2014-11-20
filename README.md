@@ -25,3 +25,5 @@ The list of MODs:
 // Dirt becomes a block/item that you enter(ID)
 15, Customized Drop
 // You may get a lots of items/blocks
+
+It looks terrible when you see
