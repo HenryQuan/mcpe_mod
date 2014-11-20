@@ -1,8 +1,8 @@
 //####################################################
 //#   MCPE Mod 0.10.0 (For Minecraft PE 0.10.0 IOS)  #
-//#													       #
-//#					  Created by HenryQuan			 #
-//#					      11/11/2014				     #
+//#						     #
+//#	         Created by HenryQuan		     #
+//#	                11/11/2014	             #
 //####################################################
 
 
@@ -338,7 +338,7 @@ MSHookFunction(((int*)MSFindSymbol(NULL, GET_DROP_COUNT)),(int*)$__ZN9Inventory3
 else
 
 {
-// NOTHING¡¡HERE
+// NOTHINGÂ¡Â¡HERE
 }
 
 // The end of the functions that loads when the game opens/runs.
