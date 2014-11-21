@@ -26,8 +26,8 @@ system("killall -9 SpringBoard");
 
 -(void) showID
 {
-// A very very long address >_<
-[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://d.pcs.baidu.com/thumbnail/cec30cce06a3c68bfab3bcbc94562a1a?fid=1343687021-250528-193718246027057&time=1416384000&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-0zX1TnyUXTb7FVhrVwlBLJkg8bo%3d&expires=8h&prisign=unknow&chkbd=0&chkv=0&size=c10000_u10000&quality=90"]];
+// I find a better website to find ID
+[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://minecraft-ids.grahamedgecombe.com/"]];
 }
 
 -(void) showTutorial
