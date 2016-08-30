@@ -3,13 +3,18 @@ It has a setting bundle however the language you will see in Settings is Chinese
 It will support Multi-langague one day and keep updating.
 
 The list of MODs:
+
 1, Keep all items.
+
 2, Sneaking/Sprinting/Normal.
 // It is a in-game button, you may change it inside the game.
 3, No falling damage.
+
 4, Never stuck in the wall.
+
 5, Customized Armor.
 // You may choose a armor (iron, gold...)
+
 6, Speed up digging
 // 1x - 16x
 7, Kill all mobs in one hit.
