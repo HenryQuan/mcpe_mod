@@ -1,6 +1,8 @@
 It is a MOD for Minecraft PE 0.9.4+.
+
 It has a setting bundle however the language you will see in Settings is Chinese >_<
-It will support Multi-langague one day and keep updating.
+
+/*It will support Multi-langague one day and keep updating.*/
 
 The list of MODs:
 
