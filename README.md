@@ -24,14 +24,18 @@ The list of MODs:
 // You may also see clearly under water
 
 9, Walk in water/lava
+
 10, No slowdown when crossing web.
+
 11, No gravity
 // You may just think that the whole map is a big swimming pool
+
 12, Bigger inventory
+
 13, No explosion
+
 14, Customized Item
 // Dirt becomes a block/item that you enter(ID)
+
 15, Customized Drop
 // You may get a lots of items/blocks
-
-It looks terrible when you see
