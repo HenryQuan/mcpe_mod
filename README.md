@@ -17,9 +17,12 @@ The list of MODs:
 
 6, Speed up digging
 // 1x - 16x
+
 7, Kill all mobs in one hit.
+
 8, Infinity air in water
 // You may also see clearly under water
+
 9, Walk in water/lava
 10, No slowdown when crossing web.
 11, No gravity
