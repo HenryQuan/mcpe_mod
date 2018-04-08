@@ -1,3 +1,11 @@
+# MCPEMod
+Now is 2018.
+This brings back memory. *This was my game hacking era.*
+
+Lots of things happened this that but I have no regret choosing this path. 
+I am now scared of failing and dont dare to challenge myself. If you could do this 4 years ago, is it really that hard? You just dont want to put in any efforts...
+
+***
 It is a MOD for Minecraft PE 0.9.4+.
 
 It has a setting bundle however the language you will see in Settings is Chinese >_<
