@@ -1,11 +1,14 @@
+TARGET := iphone:clang:latest:7.0
 ARCHS = armv7 arm64
-include theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = MCPEMod
+
 MCPEMod_FILES = MCPEMod.mm
 MCPEMod_INSTALL_PATH = /Library/PreferenceBundles
 MCPEMod_FRAMEWORKS = UIKit
 MCPEMod_PRIVATE_FRAMEWORKS = Preferences
+MCPEMod_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/bundle.mk
 

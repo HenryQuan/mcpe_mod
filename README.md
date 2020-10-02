@@ -1,54 +1,42 @@
-# MCPEMod
-Now is 2018.
-This brings back memory. *This was my game hacking era.*
+# 2020
+6 years already. I really miss my old days maybe because I am staying at home too much. It brings all my memories back to me. You don't really have a chance like this where you can take a break and rest. I feel like the time stops this year.
 
-Lots of things happened this that but I have no regret choosing this path. 
-I am now scared of failing and dont dare to challenge myself. If you could do this 4 years ago, is it really that hard? You just dont want to put in any efforts...
+I am coming back as well. I still enjoy making mods/tweaks and it is just fun for me. Doing what you like is a nice thing in life.
 
-***
-It is a MOD for Minecraft PE 0.9.4+.
+# 2018
+Now is 2018. This brings back memory. *This was my game hacking era.*
 
-It has a setting bundle however the language you will see in Settings is Chinese >_<
+Lots of things happened since this but I have no regret choosing this path. 
+I am now scared of failing and don't dare to challenge myself anymore. If you could do this 4 years ago, is it really that hard? You just dont want to put in any efforts...
 
-//*It will support Multi-langague one day and keep updating.*
+# MCPE Mod
+This is only for Minecraft PE 0.9.4 - 0.10.0. I haven't tried recent versions but I don't think it will work anymore.
 
-Sadly, it never happened.
+It has a setting bundle but the language you will see in `Settings` will be only in Chinese >_<
+
+~~*It will support Multi-langague one day and keep updating.*~~ Sadly, this never happened.
 
 
-The list of MODs:
-
-1, Keep all items.
-
-2, Sneaking/Sprinting/Normal.
-// It is a in-game button, you may change it inside the game.
-3, No falling damage.
-
-4, Never stuck in the wall.
-
-5, Customized Armor.
-// You may choose a armor (iron, gold...)
-
-6, Speed up digging
-// 1x - 16x
-
-7, Kill all mobs in one hit.
-
-8, Infinity air in water
-// You may also see clearly under water
-
-9, Walk in water/lava
-
-10, No slowdown when crossing web.
-
-11, No gravity
-// You may just think that the whole map is a big swimming pool
-
-12, Bigger inventory
-
-13, No explosion
-
-14, Customized Item
-// Dirt becomes a block/item that you enter(ID)
-
-15, Customized Drop
-// You may get a lots of items/blocks
+## Features
+- Keep all items
+- Sneaking/Sprinting/Normal
+    - You can toggle this in game
+- No falling damage
+- Never stuck in the wall
+- Customized Armor
+    - You may choose a armor (iron, gold and more)
+- Speed up digging
+    - up to 16x
+- Kill all mobs in one hit
+- Infinite air in water
+    - You may also see clearly under water
+- Walking in water/lava
+- No slowdown while crossing webs
+- No gravity
+    - You may just think that the whole map is a big swimming pool
+- Larger inventory
+- No explosion
+- Customise drop items
+    - Dirt becomes a block/item that you enter(ID)
+- Customise drop item number
+    - You may get a lots of items/blocks
